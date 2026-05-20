@@ -10,3 +10,8 @@ How would you balance these three?
 -   Cost
 -   Performance
 -   Schedule
+
+There is one if you improve it, the others will follow
+
+By improving performance, you gain capacity.
+That allows for more capability and thus more revenue and profit

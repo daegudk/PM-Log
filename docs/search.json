@@ -11,27 +11,20 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\nExperience of PM"
   },
   {
     "objectID": "posts/20260519 Cost Perf Schedule/index.html",
     "href": "posts/20260519 Cost Perf Schedule/index.html",
     "title": "Cost Performance Schedule",
     "section": "",
-    "text": "How would you balance these three?\n\nCost\nPerformance\nSchedule"
+    "text": "How would you balance these three?\n\nCost\nPerformance\nSchedule\n\nThere is one if you improve it, the others will follow\nBy improving performance, you gain capacity. That allows for more capability and thus more revenue and profit"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Strategic PM",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 19, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nCost Performance Schedule\n\n\n\nbalance\n\n\n\n\n\n\n\n\n\nMay 19, 2026\n\n\nDK\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 16, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Cost Performance Schedule\n\n\n\nbalance\n\n\n\n\n\n\n\n\n\nMay 19, 2026\n\n\nDK\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nMay 16, 2026\n\n\nDK\n\n\n\n\n\nNo matching items"
   }
 ]
