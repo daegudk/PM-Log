@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>20260519 PM log</title>
+<title>Project Management Log</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
@@ -44,6 +44,30 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
   <pubDate>Tue, 19 May 2026 06:00:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Cost Performance Schedule</title>
+  <dc:creator>DK </dc:creator>
+  <link>https://your-website-url.example.com/posts/20260519 Cost Perf Schedule/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>How would you balance these three?</p>
+<ul>
+<li>Cost</li>
+<li>Performance</li>
+<li>Schedule</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>balance</category>
+  <guid>https://your-website-url.example.com/posts/20260519 Cost Perf Schedule/</guid>
+  <pubDate>Tue, 19 May 2026 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome To My Blog</title>

@@ -1,0 +1,12 @@
+---
+title: "Cost Performance Schedule"
+author: "DK"
+date: "2026-05-19"
+categories: [balance]
+---
+
+How would you balance these three?
+
+-   Cost
+-   Performance
+-   Schedule
